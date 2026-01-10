@@ -23,3 +23,6 @@ nav:
       - 01 歌名A: songs/01-歌名A.md
       - 02 歌名B: songs/02-歌名B.md
       - 03 歌名C: songs/03-歌名C.md
+
+extra_css:
+  - stylesheets/extra.css
