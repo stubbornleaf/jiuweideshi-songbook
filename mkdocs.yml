@@ -1,5 +1,5 @@
 site_name: 演出曲目册 / Concert Songbook
-site_url: https://<YOUR_GITHUB_USERNAME>.github.io/<YOUR_REPO_NAME>/
+site_url: https://stubbornleaf.github.io/jiuweideshi-songbook/
 theme:
   name: material
   language: zh
