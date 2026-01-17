@@ -20,8 +20,8 @@
 13. [模范情书](songs/模范情书.md)
 14. [路过人间](songs/路过人间.md)
 15. [One More Cup of Coffee](songs/One%20More%20Cup%20of%20Coffee.md)
-16. [乌云典当记](乌云典当记.md)
-17. [关于郑州的记忆](关于郑州的记忆.md)
+16. [乌云典当记](songs/乌云典当记.md)
+17. [关于郑州的记忆](songs/关于郑州的记忆.md)
 
 ---
 
