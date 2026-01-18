@@ -1,8 +1,4 @@
-## 写在前面
-
-[序言](prologue.md)
-
----
+## [序言](prologue.md)
 
 ## 曲目单
 
@@ -23,8 +19,6 @@
 15. [One More Cup of Coffee](songs/One%20More%20Cup%20of%20Coffee.md)
 16. [乌云典当记](songs/乌云典当记.md)
 17. [关于郑州的记忆](songs/关于郑州的记忆.md)
-
----
 
 ## 使用说明
 
