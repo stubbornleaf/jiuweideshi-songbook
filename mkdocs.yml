@@ -20,7 +20,7 @@ markdown_extensions:
 nav:
   - 首页: index.md
   - 曲目:
-      - 01 久违的事: songs/01-久违的事.md
+      - 01 久违的事: songs/久违的事.md
       - 02 米店 : songs/米店.md
       - 03 安和桥 : songs/安和桥.md
       - 04 郭源潮 : songs/郭源潮.md
