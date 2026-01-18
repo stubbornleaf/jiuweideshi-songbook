@@ -19,6 +19,7 @@ markdown_extensions:
 
 nav:
   - 首页: index.md
+  - 序言: prologue.md
   - 曲目:
       - 01 久违的事: songs/久违的事.md
       - 02 米店 : songs/米店.md
