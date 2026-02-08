@@ -1,3 +1,6 @@
+**时间**：2026年3月28日  
+**地点**：[Quarter Note Bar & Grill](https://maps.app.goo.gl/ZQGtK9dWQA1ryPPd9)  
+
 ## [序言](prologue.md)
 
 ## 曲目单
