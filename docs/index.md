@@ -1,5 +1,5 @@
-**时间**：2026年3月28日  
-**地点**：[Quarter Note Bar & Grill](https://maps.app.goo.gl/ZQGtK9dWQA1ryPPd9)  
+**时间**：2026年3月28日晚  
+**地点**：[Quarter Note Bar & Grill](https://maps.app.goo.gl/ZQGtK9dWQA1ryPPd9)  (免门票)
 
 ## [序言](prologue.md)
 
