@@ -2,13 +2,29 @@ site_name: 久违的事
 site_url: https://stubbornleaf.github.io/jiuweideshi-songbook/
 theme:
   name: material
-  language: zh
   features:
     - navigation.instant
     - navigation.sections
     - navigation.top
     - toc.integrate
     - content.code.copy
+
+plugins:
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: zh
+          name: 中文
+          build: true
+        - locale: en
+          name: English
+          build: true
+      nav_translations:
+        en:
+          首页: Home
+          序言: Prologue
+          曲目: Songs
+          演职人员: Credits
 
 markdown_extensions:
   - admonition
@@ -38,7 +54,7 @@ nav:
       - 15 我从这里走过 : songs/我从这里走过.md
       - 16 路过人间 : songs/路过人间.md
       - 17 想把我唱给你听 : songs/想把我唱给你听.md
-      - 18 串烧 : songs/串烧.md
+      - 18 串烧: songs/串烧.md
       - 19 米店 : songs/米店.md
   - 演职人员: credits.md
 
