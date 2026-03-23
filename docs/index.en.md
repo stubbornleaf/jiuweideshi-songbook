@@ -22,7 +22,8 @@
 15. [我从这里走过](songs/我从这里走过.en.md)
 16. [路过人间](songs/路过人间.en.md)
 17. [想把我唱给你听](songs/想把我唱给你听.en.md)
-18. [米店](songs/米店.en.md)
+18. [童年+光阴的故事+恋曲1980](songs/童年+光阴的故事+恋曲1980.en.md)
+19. [米店](songs/米店.en.md)
 
 ## [Credits](credits.en.md)
 
